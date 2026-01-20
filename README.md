@@ -3,23 +3,23 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Heang-Dev">
+  <a href="https://github.com/Sombath11">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://linkedin.com/in/mengheang">
+  <a href="">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:chhunmengheang5@gmail.com">
+  <a href="mailto:sbath5261@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://t.me/mengheang">
+  <a href="https://t.me/E_sombath">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Heang-Dev&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Heang-Dev?label=Followers&style=for-the-badge&color=6C63FF" alt="Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=Sombath11&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Sombath11?label=Followers&style=for-the-badge&color=6C63FF" alt="Followers"/>
   <img src="https://img.shields.io/github/stars/Heang-Dev?label=Stars&style=for-the-badge&color=6C63FF" alt="Stars"/>
 </p>
 
@@ -130,7 +130,7 @@ const sombath = {
 
 ## 📌 Featured Repositories
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/Heang-Dev/Git-GitHub">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Heang-Dev&repo=Git-GitHub&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" alt="Git-GitHub"/>
   </a>
@@ -146,7 +146,7 @@ const sombath = {
   <a href="https://github.com/Heang-Dev/Spotify">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Heang-Dev&repo=Spotify&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" alt="Spotify"/>
   </a>
-</p>
+</p> -->
 
 ---
 
@@ -193,19 +193,19 @@ const sombath = {
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/Heang-Dev" target="_blank">
+  <a href="https://github.com/Sombath11" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://linkedin.com/in/mengheang" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:chhunmengheang5@gmail.com" target="_blank">
+  <a href="mailto:sbath5261@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://t.me/mengheang" target="_blank">
+  <a href="https://t.me/E_sombath" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <a href="https://facebook.com/mengheang" target="_blank">
+  <a href="https://facebook.com/sombath.khmer.52" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
 </p>
