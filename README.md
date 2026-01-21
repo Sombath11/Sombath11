@@ -97,6 +97,26 @@ const sombath = {
 ---
 
 ## 📊 GitHub Stats
+<!-- Statistics: Commit series -->
+<picture>
+  <source srcset="https://raw.githubusercontent.com/Sombath11/Sombath11/main/output/stats_commits.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
+  <img src="https://raw.githubusercontent.com/Sombath11/Sombath11/main/output/stats_commits.svg">
+</picture>
+<!-- Statistics: Programming languages -->
+<picture>
+  <source srcset="https://raw.githubusercontent.com/Sombath11/Sombath11/main/output/stats_langs.svg#gh-dark-mode-only"  media="(prefers-color-scheme: dark)">
+  <img src="https://raw.githubusercontent.com/Sombath11/Sombath11/main/output/stats_langs.svg">
+</picture>
+<!-- Statistics: General statistics -->
+<picture>
+  <source srcset="https://raw.githubusercontent.com/Sombath11/Sombath11/main/output/stats_general.svg#gh-dark-mode-only"  media="(prefers-color-scheme: dark)">
+  <img src="https://raw.githubusercontent.com/Sombath11/Sombath11/main/output/stats_general.svg">
+</picture>
+<!-- Statistics: Unique repository visitors -->
+<picture>
+  <source srcset="https://raw.githubusercontent.com/Sombath11/Sombath11/main/output/stats_visitors.svg#gh-dark-mode-only"  media="(prefers-color-scheme: dark)">
+  <img src="https://raw.githubusercontent.com/Sombath11/Sombath11/main/output/stats_visitors.svg">
+</picture>
 
 
 
@@ -122,7 +142,7 @@ const sombath = {
 
 ---
 
-## 📌 Featured Repositories
+<!--## 📌 Featured Repositories -->
 
 <!-- <p align="center">
   <a href="https://github.com/Heang-Dev/Git-GitHub">
@@ -149,38 +169,6 @@ const sombath = {
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </p>
-
----
-
-## 📊 GitHub Metrics
-
-<details>
-<summary>📈 Click to expand Advanced Metrics</summary>
-<br>
-
-<!-- These will show after running the GitHub Actions workflow -->
-<!-- Make sure to add METRICS_TOKEN secret and run the workflow -->
-
-<p align="center">
-  <img src="./metrics.svg" alt="GitHub Metrics" />
-</p>
-
-### 📅 Contribution Calendar
-<p align="center">
-  <img src="./isocalendar.svg" alt="Isometric Calendar" />
-</p>
-
-### ⏰ Coding Habits
-<p align="center">
-  <img src="./habits.svg" alt="Coding Habits" />
-</p>
-
-### 🔥 Recent Activity
-<p align="center">
-  <img src="./activity.svg" alt="Recent Activity" />
-</p>
-
-</details>
 
 ---
 
