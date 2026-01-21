@@ -98,13 +98,7 @@ const sombath = {
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="./github-stats.svg" alt="GitHub Stats" />
-</p>
 
-<p align="center">
-  <img src="./streak.svg" alt="GitHub Streak & Habits"/>
-</p>
 
 ---
 
