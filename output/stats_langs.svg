@@ -177,10 +177,10 @@ div.ellipsis {
       <h2>Languages Used (By File Size)</h2>
       <div>
         <span class="progress">
-          <span class="progress-item" style="--final-width: 47.35789668579893%; --color: #f1e05a; --delay: 0.85s;"></span>
-          <span class="progress-item" style="--final-width: 33.26606184039992%; --color: #f7931e; --delay: 1.53s;"></span>
-          <span class="progress-item" style="--final-width: 17.487502314386223%; --color: #663399; --delay: 2.22s;"></span>
-          <span class="progress-item" style="--final-width: 1.8885391594149232%; --color: #e34c26; --delay: 2.90s;"></span>
+          <span class="progress-item" style="--final-width: 47.35643463528889%; --color: #f1e05a; --delay: 0.85s;"></span>
+          <span class="progress-item" style="--final-width: 33.266985752242704%; --color: #f7931e; --delay: 1.53s;"></span>
+          <span class="progress-item" style="--final-width: 17.487988001888592%; --color: #663399; --delay: 2.22s;"></span>
+          <span class="progress-item" style="--final-width: 1.8885916105798162%; --color: #e34c26; --delay: 2.90s;"></span>
           </span>
           </div>
           <ul>
