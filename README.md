@@ -6,7 +6,7 @@
   <a href="https://github.com/Sombath11">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="">
+  <a href="https://www.linkedin.com/in/sombath-eat-b229603a7/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:sbath5261@gmail.com">
@@ -178,7 +178,7 @@ const sombath = {
   <a href="https://github.com/Sombath11" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="" target="_blank">
+  <a href="https://www.linkedin.com/in/sombath-eat-b229603a7/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:sbath5261@gmail.com" target="_blank">
